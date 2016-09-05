@@ -1,3 +1,4 @@
 name: Shyam Thiagarajan. Passionate Engineer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+baseurl: /ShyamW.github.io
